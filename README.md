@@ -1,0 +1,2 @@
+# pythonimagetypeconverter
+THIS SIMPLE PYTHON SCRIPT CONVERTS A GIVEN .JPG/JPEG FILE INTO A .PNG FILE!!!!!!!!!!!
